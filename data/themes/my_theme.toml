@@ -11,9 +11,9 @@ primary = "#2758be"
 menu_primary = "#f2eada"
 menu_text = "#051a24"
 menu_text_active = "#2758be"
-menu_title = "#051a24"
+menu_title = "#2758be"
 
 # Backgrounds
 background = "#fffefc"
 home_section_odd = "#fffefc"
-home_section_even = "#fff6e3"
+home_section_even = "#fffefc"
