@@ -6,35 +6,36 @@ title: "An example conference paper"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
+- Andrew Mellor
+- Renaud Lambiotte
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 
 date: "2013-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-12-22T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Physical Review E*
+publication_short: In *PRE*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Multibody interactions can reveal higher-order dynamical effects that are not captured by traditional two-body network models. In this work, we derive and analyze models for consensus dynamics on hypergraphs, where nodes interact in groups rather than in pairs. Our work reveals that multibody dynamical effects that go beyond rescaled pairwise interactions can appear only if the interaction function is nonlinear, regardless of the underlying multibody structure. As a practical application, we introduce a specific nonlinear function to model three-body consensus, which incorporates reinforcing group effects such as peer pressure. Unlike consensus processes on networks, we find that the resulting dynamics can cause shifts away from the average system state. The nature of these shifts depends on a complex interplay between the distribution of the initial states, the underlying structure, and the form of the interaction function. By considering modular hypergraphs, we discover state-dependent, asymmetric dynamics between polarized clusters where multibody interactions make one cluster dominate the other.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this work, we derive and analyze models for consensus dynamics on hypergraphs, where nodes interact in groups rather than in pairs. Our work reveals that multibody dynamical effects that go beyond rescaled pairwise interactions can appear only if the interaction function is nonlinear.
 
-tags: []
+tags: [Hypergraphs, Consensus dynamics]
 
 # Display this page in the Featured widget?
 featured: true
@@ -56,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ""
   focal_point: ""
   preview_only: false
 
