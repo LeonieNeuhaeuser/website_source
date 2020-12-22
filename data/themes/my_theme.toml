@@ -11,7 +11,7 @@ primary = "#2758be"
 menu_primary = "#f2eada"
 menu_text = "#051a24"
 menu_text_active = "#2758be"
-menu_title = "#f2eada"
+menu_title = "#051a24"
 
 # Backgrounds
 background = "#fffefc"
