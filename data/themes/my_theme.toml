@@ -5,15 +5,15 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#FF4E50" 
+primary = "#2758be" 
 
 # Menu
-menu_primary = "#EDE574"
-menu_text = "#EDE574"
-menu_text_active = "#FF4E50"
-menu_title = "#EDE574"
+menu_primary = "#e6f7ff"
+menu_text = "#051a24"
+menu_text_active = "#2758be"
+menu_title = "#051a24"
 
 # Backgrounds
-background = "#E1F5C4"
-home_section_odd = "#E1F5C4"
-home_section_even = "#EDE574"
+background = "#fffefc"
+home_section_odd = "#f2eada"
+home_section_even = "#fffefc"
