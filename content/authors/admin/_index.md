@@ -67,7 +67,7 @@ social:
 email: "mailto:neuhaeuser@cs.rwth-aachen.de"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-I am a doctoral researcher in the Computational Network Sciences Group at RWTH Aachen University. My research interests include Network Science, in particular the statistical and dynamical analysis of Social Networks, Complex Systems and Computational Social Sciences.
+I am a doctoral researcher in the Computational Network Sciences Group at RWTH Aachen University. My research interests include Network Science, Complex Systems and Computational Social Sciences. In particular, I focus on the statistical and dynamical analysis of Social Networks with topics ranging from opinion dynamics on hypergraphs to the effects of systematic errors and bias on rankings in social networks.
