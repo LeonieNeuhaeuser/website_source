@@ -5,12 +5,12 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#2758be" 
+primary = "#f7882f" 
 
 # Menu
 menu_primary = "#f2eada"
 menu_text = "#051a24"
-menu_text_active = "#2758be"
+menu_text_active = "#f7882f"
 menu_title = "#051a24"
 
 # Backgrounds
