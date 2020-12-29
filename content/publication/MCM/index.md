@@ -27,8 +27,8 @@ publishDate: "2020-12-22T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Physics*
-# publication_short: In *Journal of Physics*
+publication: In *Journal of Physics, Complexity*
+# publication_short: In *Journal of Physics, Complexity*
 
 abstract: The basic interaction unit of many dynamical systems involves more than two nodes. In such situations where networks are not an appropriate modelling framework, it has recently become increasingly popular to turn to higher-order models, including hypergraphs. In this paper, we explore the non-linear dynamics of consensus on hypergraphs, allowing for interactions within hyperedges of any cardinality. After discussing the different ways in which non-linearities can be incorporated in the dynamical model, building on different sociological theories, we explore its mathematical properties and perform simulations to investigate them numerically. After focussing on synthetic hypergraphs, namely on block hypergraphs, we investigate the dynamics on real-world structures, and explore in detail the role of involvement and stubbornness on polarisation.
 
