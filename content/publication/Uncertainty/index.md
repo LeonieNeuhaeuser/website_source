@@ -33,8 +33,8 @@ publishDate: "2020-12-22T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Preprint*
-publication_short: *Preprint*
+publication: In *Preprint*
+publication_short: In *Preprint*
 
 abstract: Network analysis provides powerful tools to learn about a variety
 of social systems. However, most analyses implicitly assume that
