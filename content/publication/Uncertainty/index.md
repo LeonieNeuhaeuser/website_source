@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.101.032310'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
