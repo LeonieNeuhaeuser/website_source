@@ -36,29 +36,13 @@ publication_types: ["3"]
 publication: In *Preprint*
 publication_short: In *Preprint*
 
-abstract: Network analysis provides powerful tools to learn about a variety
-of social systems. However, most analyses implicitly assume that
-the considered data is error-free and reliable. Especially if the network consists of multiple groups, this assumption conflicts with
-the range of systematic reporting biases, measurement errors and
-other inaccuracies that are well documented in our community. In
-this paper, we model how such systematic uncertainty on edges of
-an attributed network can impact network analysis, in particular
-the ranking of nodes. We discuss how erroneous edge observations
-can be driven by external node attributes and the relative edge
-positions in the network, thereby opening a path towards a systematic study of the effects of edge-uncertainty for various network
-analysis tasks. To show how conclusions drawn from network analyses can get distorted due to such inaccuracies, we focus on the
-effects of edge-uncertainty on minority group representations in
-degree-based rankings. For that purpose, we analyze synthetic and
-real networks with varying homophily and group sizes. We find
-that introducing edge uncertainty can significantly alter the relative density of networks and result both in a strongly increased or
-decreased ranking of the minority, depending on the type of edge
-error and homophily. Our model enables researchers to include
-systematic edge-uncertainty in their analyses and thereby better
-account for the role of minorities in social networks.
+abstract: Network analysis provides powerful tools to learn about a variety of social systems. However, most analyses implicitly assume that the considered data is error-free and reliable. Especially if the network consists of multiple groups, this assumption conflicts with the range of systematic reporting biases, measurement errors and other inaccuracies that are well documented in our community. In
+this paper, we model how such systematic uncertainty on edges of an attributed network can impact network analysis, in particular the ranking of nodes. We discuss how erroneous edge observations
+can be driven by external node attributes and the relative edge positions in the network, thereby opening a path towards a systematic study of the effects of edge-uncertainty for various network analysis tasks. To show how conclusions drawn from network analyses can get distorted due to such inaccuracies, we focus on the effects of edge-uncertainty on minority group representations in
+degree-based rankings. For that purpose, we analyze synthetic and real networks with varying homophily and group sizes. We find that introducing edge uncertainty can significantly alter the relative density of networks and result both in a strongly increased or decreased ranking of the minority, depending on the type of edge error and homophily. Our model enables researchers to include systematic edge-uncertainty in their analyses and thereby better account for the role of minorities in social networks.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we introduce a model for systematic edge uncertainty in attributed networks.
-    Our model enables us to distinguish between erroneous edge observations that are driven by external node attributes or the network structure itself, thereby opening a path towards a systematic study of the effects of edge-uncertainty for various network analysis tasks.
+summary: In this paper, we introduce a model for systematic edge uncertainty in attributed networks. Our model enables us to distinguish between erroneous edge observations that are driven by external node attributes or the network structure itself, thereby opening a path towards a systematic study of the effects of edge-uncertainty for various network analysis tasks.
 
 tags: [Uncertainty, Rankings, Bias]
 
