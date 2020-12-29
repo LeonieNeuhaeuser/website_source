@@ -1,18 +1,21 @@
 ---
-title: "Nonlinear consensus dynamics on hypergraphs"
+title: "Systematic edge uncertainty in attributed social networks
+and its effects on rankings of minority nodes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Andrew Mellor
-- Renaud Lambiotte
+- Felix I. Stamm
+- Florian Lemmerich
+- Michael T. Schaub
+- Markus Strohmaier
 
 # Author notes (optional)
 # author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+ - "Equal contribution"
+ - "Equal contribution"
 
 date: "2020-01-01T00:00:00Z"
 doi: ""
@@ -24,18 +27,37 @@ publishDate: "2020-12-22T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Physical Review E*
-publication_short: In *PRE*
+publication: *Preprint*
+publication_short: *Preprint*
 
-abstract: Multibody interactions can reveal higher-order dynamical effects that are not captured by traditional two-body network models. In this work, we derive and analyze models for consensus dynamics on hypergraphs, where nodes interact in groups rather than in pairs. Our work reveals that multibody dynamical effects that go beyond rescaled pairwise interactions can appear only if the interaction function is nonlinear, regardless of the underlying multibody structure. As a practical application, we introduce a specific nonlinear function to model three-body consensus, which incorporates reinforcing group effects such as peer pressure. Unlike consensus processes on networks, we find that the resulting dynamics can cause shifts away from the average system state. The nature of these shifts depends on a complex interplay between the distribution of the initial states, the underlying structure, and the form of the interaction function. By considering modular hypergraphs, we discover state-dependent, asymmetric dynamics between polarized clusters where multibody interactions make one cluster dominate the other.
+abstract: Network analysis provides powerful tools to learn about a variety
+of social systems. However, most analyses implicitly assume that
+the considered data is error-free and reliable. Especially if the network consists of multiple groups, this assumption conflicts with
+the range of systematic reporting biases, measurement errors and
+other inaccuracies that are well documented in our community. In
+this paper, we model how such systematic uncertainty on edges of
+an attributed network can impact network analysis, in particular
+the ranking of nodes. We discuss how erroneous edge observations
+can be driven by external node attributes and the relative edge
+positions in the network, thereby opening a path towards a systematic study of the effects of edge-uncertainty for various network
+analysis tasks. To show how conclusions drawn from network analyses can get distorted due to such inaccuracies, we focus on the
+effects of edge-uncertainty on minority group representations in
+degree-based rankings. For that purpose, we analyze synthetic and
+real networks with varying homophily and group sizes. We find
+that introducing edge uncertainty can significantly alter the relative density of networks and result both in a strongly increased or
+decreased ranking of the minority, depending on the type of edge
+error and homophily. Our model enables researchers to include
+systematic edge-uncertainty in their analyses and thereby better
+account for the role of minorities in social networks.
 
 # Summary. An optional shortened abstract.
-summary: In this work, we derive and analyze models for consensus dynamics on hypergraphs, where nodes interact in groups rather than in pairs. Our work reveals that multibody dynamical effects that go beyond rescaled pairwise interactions can appear only if the interaction function is nonlinear.
+summary: In this paper, we introduce a model for systematic edge uncertainty in attributed networks.
+    Our model enables us to distinguish between erroneous edge observations that are driven by external node attributes or the network structure itself, thereby opening a path towards a systematic study of the effects of edge-uncertainty for various network analysis tasks.
 
-tags: [Hypergraphs, Consensus dynamics]
+tags: [Uncertainty, Rankings, Bias]
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,7 +67,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/pdf/2010.11546.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,15 +88,14 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
