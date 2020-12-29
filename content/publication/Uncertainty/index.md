@@ -13,9 +13,9 @@ authors:
 - Markus Strohmaier
 
 # Author notes (optional)
- author_notes:
- - "Equal contribution"
- - "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
  # - ""
  # - ""
  # - ""
