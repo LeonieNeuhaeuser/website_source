@@ -1,12 +1,13 @@
 ---
-title: "Modelling Non-Linear Consensus Dynamics on Hypergraphs"
+title: "Opinion Dynamics with Multi-Body Interactions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Rohit Sahasrabuddhe
 - admin
+- Michael T. Schaub
+- Andrew Mellor
 - Renaud Lambiotte
 
 # Author notes (optional)
@@ -24,16 +25,16 @@ publishDate: "2020-12-22T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of Physics: Complexity*
 # publication_short: In *Journal of Physics: Complexity*
 
-abstract: The basic interaction unit of many dynamical systems involves more than two nodes. In such situations where networks are not an appropriate modelling framework, it has recently become increasingly popular to turn to higher-order models, including hypergraphs. In this paper, we explore the non-linear dynamics of consensus on hypergraphs, allowing for interactions within hyperedges of any cardinality. After discussing the different ways in which non-linearities can be incorporated in the dynamical model, building on different sociological theories, we explore its mathematical properties and perform simulations to investigate them numerically. After focussing on synthetic hypergraphs, namely on block hypergraphs, we investigate the dynamics on real-world structures, and explore in detail the role of involvement and stubbornness on polarisation.
+abstract: We introduce and analyse a three-body consensus model (3CM) for non-linear consensus dynamics on hypergraphs. Our model incorporates reinforcing group effects, which can cause shifts in the average state of the system even in if the underlying graph is complete (corresponding to a mean-field interaction), a phenomena that may be interpreted as a type of peer pressure. We further demonstrate that for systems with two clustered groups, already a small asymmetry in our dynamics can lead to the opinion of one group becoming clearly dominant. We show that the nonlinearity in the model is the essential ingredient to make such group dynamics appear, and demonstrate how our system can otherwise be written as a linear, pairwise interaction system on a rescaled network.
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we explore the non-linear dynamics of consensus on hypergraphs, extending the previously introduced three-body consensus model (3CM) to hyperedges of any cardinality.
+summary: In this conference paper, we introduce and analyse a three-body consensus model (3CM) for non-linear consensus dynamics on hypergraphs.
 
 tags: [Hypergraphs, Consensus dynamics]
 
@@ -45,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://iopscience.iop.org/article/10.1088/2632-072X/abcea3/meta'
+url_pdf: 'https://arxiv.org/pdf/2004.00901.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

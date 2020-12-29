@@ -41,7 +41,7 @@ abstract: Network analysis provides powerful tools to learn about a variety of s
 # Summary. An optional shortened abstract.
 summary: In this paper, we introduce a model for systematic edge uncertainty in attributed networks. Our model enables us to distinguish between erroneous edge observations that are driven by external node attributes or the network structure itself, thereby opening a path towards a systematic study of the effects of edge-uncertainty for various network analysis tasks.
 
-tags: [Uncertainty, Rankings, Bias]
+tags: [Hypergraphs, Consensus dynamics]
 
 # Display this page in the Featured widget?
 featured: true
