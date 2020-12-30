@@ -38,7 +38,7 @@ summary: In this paper, we explore the non-linear dynamics of consensus on hyper
 tags: [Hypergraphs, Consensus dynamics]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

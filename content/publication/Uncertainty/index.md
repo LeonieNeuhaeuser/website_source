@@ -44,7 +44,7 @@ summary: In this paper, we introduce a model for systematic edge uncertainty in 
 tags: [Hypergraphs, Consensus dynamics]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -39,7 +39,7 @@ summary: In this conference paper, we introduce and analyse a three-body consens
 tags: [Hypergraphs, Consensus dynamics]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
