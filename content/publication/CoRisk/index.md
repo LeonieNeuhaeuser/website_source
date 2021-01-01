@@ -44,12 +44,12 @@ tags: [COVID-19, Economic risk, Data mining, Natural language processing]
 featured: false
 
 # Custom links (uncomment lines below)
- links:
- - name: "CoRisk Index"
-  url: "http://oxford.berlin/corisk"
+# links:
+ #- name: "CoRisk Index"
+ # url: "http://oxford.berlin/corisk"
 
 url_pdf: 'https://arxiv.org/pdf/2003.12432.pdf'
-url_code: ''
+url_code: 'http://oxford.berlin/corisk'
 url_dataset: ''
 url_poster: ''
 url_project: ''
