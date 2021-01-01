@@ -45,8 +45,8 @@ featured: false
 
 # Custom links (uncomment lines below)
  links:
- - name: CoRisk Index
-  url: http://oxford.berlin/corisk
+ - name: "CoRisk Index"
+  url: "http://oxford.berlin/corisk"
 
 url_pdf: 'https://arxiv.org/pdf/2003.12432.pdf'
 url_code: ''
