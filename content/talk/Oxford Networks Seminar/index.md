@@ -2,7 +2,7 @@
 title: Oxford Networks Seminar
 
 event: Oxford Networks Seminar
-event_url: https://netsci2020.netscisociety.net/
+event_url: https://www.maths.ox.ac.uk/groups/networks/networks-seminar
 
 location: online
 # summary: No higher-order effects without non-linearity.
