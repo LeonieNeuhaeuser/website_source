@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Higher-order networks
+    tag: Higher-order networks
+  - name: Systematic edge uncertainty
+    tag: Systematic edge uncertainty
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -6,14 +6,14 @@ event_url: https://netsci2020.netscisociety.net/
 
 location: online
 
-summary: No higher-order effects without nonlinearity.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: No higher-order effects without non-linearity.
+abstract: "This talk was given at the Network Science Society Conference 2020 - NetSci 2020. It is based on the paper 'Multibody interactions and nonlinear consensus dynamics on networked systems" (Physical Review E, 2020), which is joined work with Andrew Mellor and Renaud Lambiotte. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-09-22"
 #date_end: "2030-06-01T15:00:00Z"
-#all_day: false
+#all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-01-01T00:00:00Z"
@@ -33,6 +33,8 @@ links:
   icon_pack: fab
   name: Follow
   url: https://twitter.com/leoneuhaeuser
+- name: Paper
+  url: https://leonieneuhaeuser.netlify.app/publication/3cm/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -51,7 +53,7 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- []
+- ["Higher-order networks"]
 ---
 
 
