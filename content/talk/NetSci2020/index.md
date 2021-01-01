@@ -5,8 +5,8 @@ event: Network Science Society Conference 2020
 event_url: https://netsci2020.netscisociety.net/
 
 location: online
-summary: No higher-order effects without non-linearity.
-abstract: "This talk was given at the Network Science Society Conference 2020 - NetSci 2020. It is based on the paper 'Multibody interactions and nonlinear consensus dynamics on networked systems" (Physical Review E, 2020), which is joined work with Andrew Mellor and Renaud Lambiotte."
+# summary: No higher-order effects without non-linearity.
+abstract: "This talk was given at the Network Science Society Conference 2020 - NetSci 2020. It is based on joine Multibody interactions and nonlinear consensus dynamics on networked systems (Physical Review E, 2020), which is joined work with Andrew Mellor and Renaud Lambiotte."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
