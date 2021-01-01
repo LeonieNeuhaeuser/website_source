@@ -6,7 +6,7 @@ event_url: https://aliceschwarze.gitlab.io/winsseminar.html
 
 location: online
 # summary: No higher-order effects without non-linearity.
-abstract: "This talk was given at the Women in Network Science Seminar  in November 2020."
+abstract: "This talk was given at the Women in Network Science Seminar"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,7 +21,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   focal_point: Right
