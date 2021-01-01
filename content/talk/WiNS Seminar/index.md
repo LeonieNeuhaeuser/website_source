@@ -10,7 +10,7 @@ abstract: "This talk was given at the Women in Network Science Seminar, an inter
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-11-11 T 20:00:00Z"
+date: "2020-11-11T20:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 #all_day: true
 
