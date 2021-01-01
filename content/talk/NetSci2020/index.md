@@ -27,8 +27,6 @@ image:
   focal_point: Right
 
 links:
-- name: Paper
-  url: https://leonieneuhaeuser.netlify.app/publication/3cm/
 url_code: ""
 url_pdf: ""
 url_slides: ""

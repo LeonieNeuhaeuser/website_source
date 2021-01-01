@@ -6,7 +6,7 @@ event_url: https://aliceschwarze.gitlab.io/winsseminar.html
 
 location: online
 # summary: No higher-order effects without non-linearity.
-abstract: "This talk was given at the Women in Network Science Seminar"
+abstract: "This talk was given at the Women in Network Science Seminar, an interdisciplinary seminar hosted at the University of Washington. The talk is about our work on consensus dynamics on hypergraphs, particularly on the effects of non-linearity which is essential for revealing higher-order dynamical effects. It also gives an outlook on current work on systematic edge uncertainty in attributed social networks."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -27,8 +27,6 @@ image:
   focal_point: Right
 
 links:
-- name: Paper
-  url: https://leonieneuhaeuser.netlify.app/publication/3cm/
 url_code: ""
 url_pdf: ""
 url_slides: ""

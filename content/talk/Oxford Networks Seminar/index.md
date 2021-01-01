@@ -1,16 +1,16 @@
 ---
-title: NetSci 2020
+title: Oxford Networks Seminar
 
-event: Network Science Society Conference 2020
+event: Oxford Networks Seminar
 event_url: https://netsci2020.netscisociety.net/
 
 location: online
 # summary: No higher-order effects without non-linearity.
-abstract: "This talk was given at the Network Science Society Conference 2020 - NetSci 2020. It is based on a joint paper with Andrew Mellor and Renaud Lambiotte (Multibody interactions and nonlinear consensus dynamics on networked systems, Physical Review E, 2020). In summary, the talk derives a general model for consensus dynamics on hypergraphs which reveals that multibody dynamical effects that go beyond rescaled pairwise interactions can appear only if the interaction function is nonlinear, regardless of the underlying multibody structure. As a practical application, a specific nonlinear function is introduced which models three-body consensus, which incorporates reinforcing group effects such as peer pressure. "
+abstract: "This talk was given at the Oxford Networks Seminar, a weekly seminar series on networks, complex systems, and related topics held in the Mathematical Institute. The talk is about our work on consensus dynamics on hypergraphs, particularly on the effects of non-linearity which is essential for revealing higher-order dynamical effects. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-22"
+date: "2020-11-24T14:00:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 #all_day: true
 
@@ -27,12 +27,10 @@ image:
   focal_point: Right
 
 links:
-- name: Paper
-  url: https://leonieneuhaeuser.netlify.app/publication/3cm/
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/watch?v=cc8UxzH6p24&feature=youtu.be"
+url_video: "https://www.youtube.com/watch?v=Ctt0XuPWnAc"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
