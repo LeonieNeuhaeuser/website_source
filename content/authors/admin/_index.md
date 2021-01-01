@@ -65,6 +65,11 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "mailto:neuhaeuser@cs.rwth-aachen.de"
+adress: Department of Computer Science
+RWTH Aachen University
+Ahornstraße 55, Building E3
+D-52074 Aachen
+Germany
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
