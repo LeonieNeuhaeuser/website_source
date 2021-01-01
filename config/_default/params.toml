@@ -98,7 +98,7 @@ address = {street = "Ahornstraße 55", city = "Aachen", region = "NRW", postcode
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-#directions = "Department of Computer Science, Building E3"
+directions = "Department of Computer Science, Building E3"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
