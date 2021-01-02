@@ -6,7 +6,7 @@ tags:
 - Data Science
 - Economic Risk
 - Natural Language Processing
-date: "2020-01-01T00:00:00Z"
+date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "http://oxforddatascience.uk/corisk/"
