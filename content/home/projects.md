@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Higher-order networks
-    tag: Higher-order networks
-  - name: Systematic edge uncertainty
-    tag: Systematic edge uncertainty
+  - name: Network Science
+    tag: Network Science
+  - name: Data Science
+    tag: Data Science
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

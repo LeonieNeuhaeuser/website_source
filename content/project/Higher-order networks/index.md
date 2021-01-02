@@ -2,7 +2,7 @@
 title: Higher-order networks
 summary: The basic interaction unit of many dynamical systems involves more than two nodes. In such situations where networks are not an appropriate modelling framework, it has recently become increasingly popular to turn to higher-order models. In this collection of papers, we derive and analyse  models for consensus dynamics on hypergraphs, where nodes interact in groups rather than in pairs.
 tags:
-- Higher-order networks
+- Network Science
 - Consensus
 - Hypergraphs
 date: "2020-01-01T00:00:00Z"
