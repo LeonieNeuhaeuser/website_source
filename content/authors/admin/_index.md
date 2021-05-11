@@ -6,7 +6,7 @@ title: Leonie Neuhäuser
 superuser: true
 
 # Role/position/tagline
-role: Doctoral Researcher in Network Science
+role: PhD Candidate in Network Science 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,4 +70,4 @@ email: "mailto:neuhaeuser@cs.rwth-aachen.de"
 highlight_name: true
 ---
 
-I am a doctoral researcher in the Computational Network Sciences Group at RWTH Aachen University. My research interests include Network Science, Complex Systems and Computational Social Sciences. In particular, I focus on the statistical and dynamical analysis of Social Networks with topics ranging from opinion dynamics on hypergraphs to the effects of systematic errors and bias on rankings in social networks.
+I am a doctoral researcher in the Computational Network Sciences Group at RWTH Aachen University. My research interests include Network Science, Complex Systems and Computational Social Sciences. In particular, I focus on the statistical and dynamical analysis of Social Networks with topics ranging from opinion dynamics on hypergraphs to the effects of systematic errors and bias on rankings in social networks. 
