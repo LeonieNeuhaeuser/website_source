@@ -71,4 +71,4 @@ highlight_name: true
 ---
 
 I am a doctoral researcher in the Computational Network Sciences Group at RWTH Aachen University. My research interests include Network Science, Complex Systems and Computational Social Sciences. In particular, I focus on the statistical and dynamical analysis of Social Networks with topics ranging from opinion dynamics on hypergraphs to the effects of systematic errors and bias on rankings in social networks. 
-I am currently the Social Secretary of the Women in Network Science Society (name: WiNS url: https://www.networkscienceinstitute.org/wins/about). Reach out to me if you are interested in WiNS, want to participate in events or have any other suggestions or requests!
+I am currently the Social Secretary of the Women in Network Science Society ([WiNS](https://www.networkscienceinstitute.org/wins/about)). Reach out to me if you are interested in WiNS, want to participate in events or have any other suggestions or requests!
