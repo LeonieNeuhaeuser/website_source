@@ -5,8 +5,8 @@ event: Networks 2021
 event_url: https://networks2021.net
 
 location: online
-# summary: Systematic edge uncertainty in attributed networks
-abstract: "This talk was given at Session 50 "Incomplete and Missing Data" at Networks 2021. We present a framework for simulating systematically missing edges in networks which enables researchers to investigate effects on subsequent network analysis tasks."
+# summary: Systematic edge uncertainty in attributed networks.
+abstract: "This talk was given at Session 50 (Incomplete and Missing Data) at Networks 2021. We present a framework for simulating systematically missing edges in networks which enables researchers to investigate effects on subsequent network analysis tasks."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
