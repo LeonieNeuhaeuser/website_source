@@ -2,7 +2,7 @@
 title: Networks 2021
 
 event: Networks 2021
-event_url: https://networks2021.net/
+event_url: https://networks2021.net
 
 location: online
 # summary: Systematic edge uncertainty in attributed networks
