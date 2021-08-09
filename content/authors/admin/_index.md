@@ -33,7 +33,7 @@ education:
     year: 2017
   - course: BSc in Psychology
     institution: University of Bonn
-    year: ongoing
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
