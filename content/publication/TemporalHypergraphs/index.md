@@ -24,11 +24,11 @@ publishDate: "2021-09-13T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *NETGCOOP 2020 Conference*
-# publication_short: In *NETGCOOP 2020 Conference*
+publication: In *Preprint*
+# publication_short: In *Preprint*
 
 abstract: We introduce and analyse a three-body consensus model (3CM) for non-linear consensus dynamics on hypergraphs. Our model incorporates reinforcing group effects, which can cause shifts in the average state of the system even in if the underlying graph is complete (corresponding to a mean-field interaction), a phenomena that may be interpreted as a type of peer pressure. We further demonstrate that for systems with two clustered groups, already a small asymmetry in our dynamics can lead to the opinion of one group becoming clearly dominant. We show that the nonlinearity in the model is the essential ingredient to make such group dynamics appear, and demonstrate how our system can otherwise be written as a linear, pairwise interaction system on a rescaled network.
 
@@ -38,14 +38,14 @@ summary: In this conference paper, we introduce and analyse a three-body consens
 tags: [Hypergraphs, Consensus dynamics]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2004.00901.pdf'
+url_pdf: 'https://arxiv.org/pdf/2109.04985.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
