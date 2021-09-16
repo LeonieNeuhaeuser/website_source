@@ -6,8 +6,8 @@ title: "Consensus dynamics on temporal hypergraphs"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Michael T. Schaub
 - Renaud Lambiotte
+- Michael T. Schaub
 
 # Author notes (optional)
 # author_notes:
