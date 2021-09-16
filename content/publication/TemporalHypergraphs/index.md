@@ -7,7 +7,6 @@ title: "Consensus dynamics on temporal hypergraphs"
 authors:
 - admin
 - Michael T. Schaub
-- Andrew Mellor
 - Renaud Lambiotte
 
 # Author notes (optional)
@@ -15,11 +14,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2020-04-02"
+date: "2021-09-13"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-22T00:00:00Z"
+publishDate: "2021-09-13T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
