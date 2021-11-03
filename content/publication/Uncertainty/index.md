@@ -44,7 +44,7 @@ summary: In this paper, we introduce a model for systematic edge uncertainty in 
 tags: [Systematic Edge Uncertainty, Rankings, Bias]
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:

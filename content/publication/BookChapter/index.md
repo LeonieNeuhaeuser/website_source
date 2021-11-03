@@ -37,7 +37,7 @@ summary: In this chapter, we derive and analyse models for consensus dynamics on
 tags: [Hypergraphs, Consensus dynamics]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

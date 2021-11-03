@@ -38,7 +38,7 @@ summary: In this work, we derive and analyze models for consensus dynamics on hy
 tags: [Hypergraphs, Consensus dynamics]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
