@@ -1,5 +1,5 @@
 ---
-title: "Simulating ystematic bias in attributed social networks
+title: "Simulating systematic bias in attributed social networks
 and its effects on rankings of minority nodes"
 
 # Authors
