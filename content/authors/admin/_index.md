@@ -6,7 +6,7 @@ title: Leonie Neuhäuser
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Network Science 
+role: PhD Candidate in Computer Science 
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,6 +70,6 @@ email: "mailto:neuhaeuser@cs.rwth-aachen.de"
 highlight_name: true
 ---
 
-I am a doctoral researcher in the Computational Network Sciences Group at RWTH Aachen University. My research interests include Network Science, Complex Systems and Computational Social Sciences. In particular, I focus on the statistical and dynamical analysis of Social Networks with topics ranging from opinion dynamics on hypergraphs to the effects of systematic errors and bias on rankings in social networks. 
+I am a doctoral researcher in the Computational Network Sciences Group at RWTH Aachen University, where I study the structure and dynamics of complex systems using methods from network science, mathematical modelling and graph learning. In particular, my research topics range from the study of dynamical systems on hypergraphs to investigating inequality and marginalisation through the lens of network analysis. During my PhD, I spent a year in the Governance Programme at the Hertie School Berlin, focusing on data science for public policy and natural language processing and was a visiting researcher at the Social Complexity Lab in Copenhagen.
 
-I am the Social Secretary of the Women in Network Science Society ([WiNS](https://www.networkscienceinstitute.org/wins/about)) which aims to foster opportunities for the education, employment, and career advancement of under-represented genders in network science. Reach out to me if you want to participate in events, want to know more about the society or have any other suggestions or requests!
+I am the Social Secretary of the Women in Network Science Society and founding member of Women in AI Aachen. Reach out to me if you want to participate in events, want to know more about the societies or have any other suggestions or requests!
